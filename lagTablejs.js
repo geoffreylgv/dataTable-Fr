@@ -3405,8 +3405,8 @@
             oAria: { sSortAscending: ": Activer pour filtrer de façon croissante", sSortDescending: ": Activer pour filtrer de façon décroissante" },
             oPaginate: { sFirst: "Prémier", sLast: "Dernier", sNext: "Suivant", sPrevious: "Précédent" },
             sEmptyTable: "Auccune donnée disponible dans la table",
-            sInfo: "Montrant_DEBUT_a_FIN_sur_TOTAL_des_entrées",//Showing _START_ to _END_ of _TOTAL_ entries
-            sInfoEmpty: "Montrant 0 à 0 sur 0 entrées",
+            sInfo: "Showing _START_ to _END_ of _TOTAL_ entries",//Showing _START_ to _END_ of _TOTAL_ entries
+            sInfoEmpty: "Show 0 to 0 on 0 entries",
             sInfoFiltered: "(filtré from _MAX_ total entries)",
             sInfoPostFix: "",
             sDecimal: "",
