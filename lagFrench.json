@@ -1,0 +1,26 @@
+{
+  "oAria": {
+    "sSortAscending": ": Activer pour filtrer la colonne de façon croissante",
+    "sSortDescending": ": Activer pour filtrer la colonne de façon décroissante"
+  },
+  "oPaginate": {
+    "sFirst": "Prémier",
+    "sLast": "Dernier",
+    "sNext": "Suivant",
+    "sPrevious": "Précédent"
+  },
+  "sEmptyTable": "Auccune donnée disponible dans la table",
+  "sInfo": "_START_ à _END_ entrées sur _TOTAL_ entrées total",
+  "sInfoEmpty": "0 à 0 sur 0 entrées",
+  "sInfoFiltered": "(filtré sur _MAX_ entrées au total)",
+  "sInfoPostFix": "",
+  "sDecimal": "",
+  "sThousands": ",",
+  "sLengthMenu": "Afficher _MENU_ entrées",
+  "sLoadingRecords": "Chargement...",
+  "sProcessing": "En Cours...",
+  "sSearch": "Rechercher: ",
+  "sSearchPlaceholder": "Rechercher une donnée",
+  "sUrl": "",
+  "sZeroRecords": "Auccune correspondance trouvée"
+}
