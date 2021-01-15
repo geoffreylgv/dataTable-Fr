@@ -1,9 +1,11 @@
 /*!
  DataTables 1.10.19
  ©2008-2018 SpryMedia Ltd - datatables.net/license
+
  @author Geoffrey Logovi | @geoffreylgv : https://github.com/geoffreylgv/dataTable-Fr.git
- @goal Translating the datable from english to french | under MIT License
+ @about Translating the datable from english to french | under MIT License
  @version Translate version: v2.0 of 15, January 2021
+ @addition the json file is up to date
 */
 (function (h) {
   "function" === typeof define && define.amd
